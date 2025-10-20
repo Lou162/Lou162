@@ -1,9 +1,9 @@
 ## Hello, moi c'est Louna !
 
 
-🎓 Je suis une développeuse fullstack de 23 ans, récemment diplômée d’une école d’ingénieur en alternance.
-💻 Je travaille à la fois côté front-end avec React, et côté back-end avec Java + Spring, notamment pour la gestion des bases de données.
-🌩️ Actuellement, je me forme aussi sur AWS et Docker pour approfondir mes compétences cloud.
+🎓 Je suis une développeuse fullstack de 23 ans, récemment diplômée d’une école d’ingénieur en alternance.  
+💻 Je travaille à la fois côté front-end avec React, et côté back-end avec Java + Spring, notamment pour la gestion des bases de données.  
+🌩️ Actuellement, je me forme aussi sur AWS et Docker pour approfondir mes compétences cloud.  
 📚 À côté du code, je suis passionnée par les animés, la culture japonaise et les livres 📖✨
 
 
